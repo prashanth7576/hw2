@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: bisque;
+    
+}
+
+li a{
+    color: bisque;
+   
+}
+
+a{
+text-decoration: none;
+}
+
+header{
+    text-align: center;
+}
