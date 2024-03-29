@@ -3,8 +3,7 @@
     --primarycolor:rgb(52, 235, 210, 0.6);
     --secondarycolor:rgba(15, 69, 113, 0.9);
     --textcolor:black;
-
-    
+    --navcolor: rgb(250, 163, 163);  
 }
 
 body{
@@ -31,7 +30,7 @@ nav p{
     font-size: 28px;
     font-weight: 600;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(250, 163, 163);
+    color: var(--navcolor);
     margin-left: 35px;
 }
 
