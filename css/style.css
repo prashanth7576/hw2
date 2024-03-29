@@ -6,15 +6,25 @@
     --navcolor: rgb(250, 163, 163);  
 }
 
+*{
+
+}
+
 body{
     background-color: var(--primarycolor);
     color: var(--textcolor);
+    
+    
+   
   
 
 }
 
-main{
+body main{
     max-width: 80ch;
+    margin-left: 30%;
+
+    
 }
 
 nav{
@@ -71,6 +81,8 @@ li a:hover{
 }
 h3{
     font-size: 20px;
+    margin-left: 30%;
+    
 }
 
 h4{
